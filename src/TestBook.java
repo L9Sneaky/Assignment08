@@ -12,7 +12,6 @@ public class TestBook {
 		b.genre = i.next();
 		
 		b.tostring();
-		System.out.println(b.generateReference());
 	}
 
 }
